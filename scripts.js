@@ -20,7 +20,7 @@ function check(){
     });
     linkButton.addEventListener("click", (e) => {
         linkBlock.innerHTML = "";
-        linkBlock.innerHTML = '<a class = "orig" href="http:\\instagram.com"><img src="i.jpg" alt=""></a><a class = "orig" href="#"><img src="а.jpg" alt=""></a><a class = "diff" href="#"><img src="wp.png" alt=""></a><a class = "diff" href="#"><img src="tg.jpg" alt=""></a><a class = "orig" href="#"><img src="vk.png" alt=""></a>';
+        linkBlock.innerHTML = '<a class = "orig" href="https://instagram.com/akvariumsvet?utm_medium=copy_link"><img src="i.jpg" alt=""></a><a class = "orig" href="https://www.facebook.com/groups/472692690247110/?ref=share"><img src="а.jpg" alt=""></a><a class = "diff" href="https://youtube.com/user/ThePngzoo"><img src="yt.png" alt=""></a><a class = "diff" href="https://t.me/akvarium_svet"><img src="tg.jpg" alt=""></a><a class = "orig" href="https://vk.com/akvarium_svet"><img src="vk.png" alt=""></a>';
     });
  }
 check();

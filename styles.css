@@ -44,6 +44,7 @@ h2{
     align-items: center;
     align-content: center;
     text-decoration: none;
+    /* color:rgb(30, 155, 113); */
 }
 #link-button:hover{
     color: #62c16c;
